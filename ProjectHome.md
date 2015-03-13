@@ -1,0 +1,1 @@
+A bash script to prepare and format an SD Card for the raspberry pi.
